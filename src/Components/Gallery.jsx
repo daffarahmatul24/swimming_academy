@@ -4,10 +4,10 @@ import Masonry from 'react-responsive-masonry';
 
 export default function Gallery() {
   const images = [
-    '/public/images/galery1.jpeg',
-    '/public/images/galery2.jpeg',
-    '/public/images/galery3.jpeg',
-    '/public/images/galery4.jpeg',
+    'images/galery1.jpeg',
+    'images/galery2.jpeg',
+    'images/galery3.jpeg',
+    'images/galery4.jpeg',
   ];
 
   return (
