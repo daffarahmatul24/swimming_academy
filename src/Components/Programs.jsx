@@ -14,7 +14,7 @@ export default function Programs() {
                 "Instruktur ramah anak",
                 "Metode bermain sambil belajar",
                 "Peralatan khusus anak",
-                "Sertifikat kelulusan",
+                "Progress perkembangan anak terpantau dengan baik",
             ],
             gradient: "from-pink-500 to-rose-500",
         },
